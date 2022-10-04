@@ -1,4 +1,10 @@
-### Hi there 👋
++ Hi, I'm @mewers2, a professional helicopter pilot who decided to embark on learning data analytics using Python through various statistical libraries such as SQL, R, MongoDB, JavaScript and more.  I have a robust background in addressing complex problems with practical solutions within organizations.
+
++ I'm currently learning and honing my skillset with Python using machine learning and analytical libraries.
+
++ I'm interested in contuing to learn and grow in analytics, applying advanced libraries in Python, and new ways to visualize large datasets.
+
++ How to reach me: michelle.cf.ewers@gmail.com
 
 <!--
 **mewers2/mewers2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
