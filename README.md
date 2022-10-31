@@ -2,7 +2,7 @@
 
 + I'm currently learning and honing my skillset with Python using machine learning and analytical libraries.
 
-+ I'm interested in contuing to learn and grow in analytics, applying advanced libraries in Python, and new ways to visualize large datasets.
++ I'm interested in continuing to learn and grow in analytics, applying advanced libraries in Python, and new ways to visualize large datasets.
 
 + How to reach me: michelle.cf.ewers@gmail.com
 
